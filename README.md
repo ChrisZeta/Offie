@@ -4,10 +4,10 @@ Download YouTube audio and video at the highest quality, straight from your Mac.
 
 Offie is a native SwiftUI app for macOS — fast, lightweight, self-contained, and available in Italian and English.
 
-* **Sito Web:** [offie.chriszeta.it](https://offie.chriszeta.it)
-* **Piattaforma:** macOS 14.0 (Sonoma) o successivo
-* **Architettura:** Universale (Apple Silicon & Intel)
-* **Lingua:** Italiano e Inglese (cambio istantaneo)
+* **Website:** [offie.chriszeta.it](https://offie.chriszeta.it)
+* **Platform:** macOS 14.0 (Sonoma) or later
+* **Architecture:** Universal (Apple Silicon & Intel)
+* **Languages:** Italian and English (instant hot-swap)
 
 ---
 
