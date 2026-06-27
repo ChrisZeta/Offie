@@ -4,6 +4,8 @@
 
 Native SwiftUI app for macOS — fast, self-contained, available in Italian and English.
 
+**[offie.chriszeta.it](https://offie.chriszeta.it)**
+
 ---
 
 ## Download
