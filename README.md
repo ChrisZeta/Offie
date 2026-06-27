@@ -43,7 +43,7 @@ Go to [**Releases**](../../releases) to download the latest version.
 
 1. Download `Offie.dmg` from [Releases](../../releases)
 2. Open the DMG and drag **Offie.app** to your Applications folder
-3. First launch: right-click → **Open** (app is ad-hoc signed)
+3. **Offie is not notarized by Apple.** On first launch macOS will block it. Open it anyway: go to **System Settings → Privacy & Security → Open Anyway**, or right-click the app → Open → Open
 
 ---
 
