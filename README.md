@@ -41,8 +41,8 @@ Go to [**Releases**](../../releases) to download the latest version.
 
 ## Installation
 
-1. Download `Offie.zip` from [Releases](../../releases)
-2. Unzip and move **Offie.app** to your Applications folder
+1. Download `Offie.dmg` from [Releases](../../releases)
+2. Open the DMG and drag **Offie.app** to your Applications folder
 3. First launch: right-click → **Open** (app is ad-hoc signed)
 
 ---
